@@ -5,9 +5,11 @@
 In this section, describe the analysis you completed for the machine learning models used in this Challenge. This might include:
 
 * Explain the purpose of the analysis.
+  
 The purpose of the analysis was to develop machine learning models to predict credit-risk of loan applicants based on various financial features.
 
 * Explain what financial information the data was on, and what you needed to predict.
+  
 The data included information on loan size, interest rate, borrower income, debt-to-income ratio, number of accounts, derogatory marks, and total debt, among other variables. The target variable for prediction was the loan status, which indicated whether a loan was classified as high-risk (1) or healthy (0).
 
 * Provide basic information about the variables you were trying to predict (e.g., `value_counts`).
